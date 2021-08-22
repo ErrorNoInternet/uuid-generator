@@ -1,9 +1,9 @@
 # UUID-Generator
-Simple UUID Generator made in Java
+A simple UUID Generator written in Java
 
 ## Requirements
 - Java 8+
-- Git (optional for download)
+- git (optional for download)
 
 ## Usage
 ```sh
